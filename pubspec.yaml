@@ -1,0 +1,12 @@
+name: flutter_cicd_wizard
+description: >
+  A CLI tool that scaffolds Flutter CI/CD pipelines, app flavors,
+  Fastlane setup, and GitHub Actions workflows — instantly.
+version: 1.0.0
+homepage: https://github.com/hossam-aboud/flutter_cicd_wizard
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+executables:
+  flutter_cicd_wizard: flutter_cicd_wizard
